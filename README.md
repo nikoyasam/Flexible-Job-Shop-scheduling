@@ -30,3 +30,7 @@ The project is heavily modularized to separate the physical constraints of the f
    ```bash
    git clone [https://github.com/yourusername/RL-Enhanced-FJSP.git](https://github.com/yourusername/RL-Enhanced-FJSP.git)
    cd RL-Enhanced-FJSP
+
+1. Run the optimization:
+   ```bash
+   python main_rl_enhanced.py
